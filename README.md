@@ -53,11 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
 </p>
 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/cisco.png" width="45" style="margin: 0 5px;" />
-  <img src="https://img.icons8.com/color/48/000000/wireshark.png" width="45" style="margin: 0 5px;" />
-</p>
-
 
 ##  Educación 
 
