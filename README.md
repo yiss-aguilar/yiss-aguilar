@@ -88,7 +88,6 @@
     <a href="https://www.linkedin.com/in/yiselaguilar"><img src="https://img.shields.io/badge/LinkedIn-Perfil-00ffcc?style=flat-square&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.instagram.com/yissel_myrl"><img src="https://img.shields.io/badge/Instagram-@yissel_myrl-ff00cc?style=flat-square&logo=instagram&logoColor=white" /></a>
   </p>
-  <img src="https://komarev.com/ghpvc/?username=yiss-aguilar&label=SCANS&color=8A2BE2&style=flat-square" />
   <br><br>
  
 </div>
