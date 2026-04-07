@@ -4,68 +4,30 @@
   <h1 style="font-family: 'Share Tech Mono', 'Courier New', monospace; font-size: 38px; font-weight: 800; margin: 0; text-transform: uppercase; letter-spacing: 6px; color: #00ffcc; text-shadow: 0 0 8px #00ffcc, 0 0 20px #8a2be2; border-bottom: none; animation: glitch 1s infinite;">
     Yisel Aguilar
   </h1>
- 
-</div>
-
-<div style="
-  background-color: #1a1a2e; /* Fondo oscuro tipo espacio */
-  background-image: linear-gradient(135deg, #1a1a2e 0%, #4b0082 50%, #1a1a2e 100%); /* Degradado morado oscuro */
-  color: white;
-  padding: 50px 20px;
-  text-align: center;
-  border-radius: 15px; /* Bordes redondeados modernos */
-  border: 2px solid #b794f4; /* Borde lila neón */
-  box-shadow: 0 0 15px rgba(183, 148, 244, 0.5); /* Resplandor neón sutil */
-  margin-bottom: 20px;
-">
-  <h1 style="
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 36px;
-    font-weight: 800;
-    margin: 0;
-    text-transform: uppercase;
-    letter-spacing: 2px; /* Espaciado futurista */
-    color: #ffffff;
-    text-shadow: 0 0 10px #b794f4; /* Efecto de brillo en el texto */
-    border-bottom: none; /* Quitar línea predeterminada de GitHub */
-  ">
-    Ingeniero en Sistemas & Redes
-  </h1>
-  <p style="
-    font-family: 'Courier New', Courier, monospace; /* Fuente tipo código */
-    font-size: 16px;
-    color: #d6bcfa; /* Lila claro */
-    margin: 10px 0 0 0;
-    letter-spacing: 1px;
-  ">
-  
-  </p>
 </div>
 
 
-##
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D6BCFA&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Desarrollador+Full+Stack+en+proceso;Especialista+en+Redes+Inform%C3%A1ticas;Apasionado+por+la+tecnolog%C3%ADa+futurista" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D6BCFA&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Desarrollador+Full+Stack+en+proceso;Especialista+en+Redes+Inform%C3%A1ticas;Apasionado+por+la+tecnolog%C3%ADa+futurista" alt="Typing SVG" />
 </a>
 
 <p align="center">
-  <a href="mailto:yooiss08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contactar%20Ahora-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="www.linkedin.com/in/yiselaguilar">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-6A0D91?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <a href="mailto:yooiss08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactar%20Ahora-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="www.linkedin.com/in/yiselaguilar">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-6A0D91?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 </div>
-
 
 ---
 
 ## ⚡ Sobre Mí  
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=+Ciberseguridad+Ofensiva+y+Defensiva;+Optimización+de+sistemas+críticos;+Código+limpio+%3E+Arquitecturas+robustas" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Ciberseguridad+Ofensiva+y+Defensiva;Optimización+de+sistemas+cr%C3%ADticos;C%C3%B3digo+limpio+%3E+Arquitecturas+robustas" alt="Typing SVG" />
 </p>
 
 <div style="background: #0d0d12; border-left: 4px solid #00ffcc; padding: 15px 20px; border-radius: 12px; margin: 20px 0;">
@@ -79,7 +41,7 @@
 
 ---
 
-## 🧠 Tecnologías & Herramientas (Iconos oficiales)
+## 🧠 Tecnologías & Herramientas 
 
 <p align="center">
   <!-- Backend -->
@@ -127,23 +89,13 @@
 
 ---
 
-## 📜 Certificaciones & Logros Internacionales
+## 📜 Certificaciones
 
 | Certificación | Institución | Periodo |
 | :--- | :--- | :--- |
 | **Introducción a las Competencias Interculturales** | OUI-IOHE | ago. 2025 – sept. 2025 |
 | **Global Citizens Challenge 2026** | Your Big Year® | feb. 2026 |
 | **IT Essentials 7** | Cisco Networking Academy | jun. 2025 |
-
----
-
-## 🚀 Proyectos Clave
-
-| Proyecto | Área | Tecnologías |
-| :--- | :--- | :--- |
-| **Sistema de Gestión Seguro** | Backend + Seguridad | `Laravel`, `MySQL`, `JWT` |
-| **Topología Empresarial** | Redes | `Packet Tracer`, `VLANs`, `ACLs` |
-| **Automatización de Logs** | DevSecOps | `Python`, `Bash`, `Linux` |
 
 ---
 
