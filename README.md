@@ -1,17 +1,41 @@
-<style>
-  /* Personalización básica para la previsualización */
-  h1, h2, h3 { border-bottom: none !important; color: #b794f4 !important; }
-  hr { background-color: #44337a !important; height: 2px !important; border: none !important; }
-  strong { color: #d6bcfa !important; }
-</style>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/render?type=soft&color=4b0082&height=200&section=header&text=INGENIERO%20EN%20SISTEMAS%20%26%20REDES&fontSize=40&animation=twinkling&fontAlignY=40&fontColor=ffffff" alt="Banner Futurista" />
+<div style="
+  background-color: #1a1a2e; /* Fondo oscuro tipo espacio */
+  background-image: linear-gradient(135deg, #1a1a2e 0%, #4b0082 50%, #1a1a2e 100%); /* Degradado morado oscuro */
+  color: white;
+  padding: 50px 20px;
+  text-align: center;
+  border-radius: 15px; /* Bordes redondeados modernos */
+  border: 2px solid #b794f4; /* Borde lila neón */
+  box-shadow: 0 0 15px rgba(183, 148, 244, 0.5); /* Resplandor neón sutil */
+  margin-bottom: 20px;
+">
+  <h1 style="
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 36px;
+    font-weight: 800;
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 2px; /* Espaciado futurista */
+    color: #ffffff;
+    text-shadow: 0 0 10px #b794f4; /* Efecto de brillo en el texto */
+    border-bottom: none; /* Quitar línea predeterminada de GitHub */
+  ">
+    Ingeniero en Sistemas & Redes
+  </h1>
+  <p style="
+    font-family: 'Courier New', Courier, monospace; /* Fuente tipo código */
+    font-size: 16px;
+    color: #d6bcfa; /* Lila claro */
+    margin: 10px 0 0 0;
+    letter-spacing: 1px;
+  ">
+  
+  </p>
+</div>
 
 <br/>
 
-# ¡Hola, Mundo! 👋 Soy Yisel
+# ¡Hola! Soy Yisel Aguilar
 
 ##
 <a href="https://git.io/typing-svg">
@@ -19,7 +43,7 @@
 </a>
 
 <p align="center">
-  <a href="mailto:[TU_CORREO_AQUI]">
+  <a href="mailto:yooiss08@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contactar%20Ahora-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="www.linkedin.com/in/yiselaguilar">
@@ -31,18 +55,22 @@
 
 ---
 
-## 🔮 Sobre Mí (About Me)
+## 🔮 Sobre Mí 
 
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div>
-    <p>Soy un estudiante avanzado de <strong>Ingeniería en Sistemas y Redes Informáticas</strong> con una visión futurista de la tecnología. Mi enfoque combina la solidez del desarrollo de software con la complejidad de la infraestructura de redes.</p>
-    <p>Me apasiona resolver problemas complejos mediante código limpio y eficiente. Actualmente, me estoy especializando en arquitecturas <strong>Full Stack</strong> y en la seguridad de redes.</p>
+    <p>
+      Especialista en formación de <strong>Ingeniería en Sistemas y Redes Informáticas (5to Ciclo)</strong>, con una visión estratégica centrada en la administración de sistemas críticos, gestión de bases de datos e infraestructura tecnológica robusta. Mi enfoque principal reside en la <strong>Ciberseguridad</strong>, buscando siempre comprender la arquitectura profunda de los sistemas para optimizar su seguridad y rendimiento mediante soluciones prácticas y escalables.
+    </p>
+    <p>
+      Me apasiona transformar problemas complejos en soluciones funcionales a través de <strong>código limpio y arquitecturas eficientes</strong>. Actualmente, potencio mis capacidades integrando el desarrollo <strong>Full Stack</strong> con protocolos avanzados de seguridad informática, con el objetivo de generar un impacto positivo y aportar valor real en entornos tecnológicos de alta demanda.
+    </p>
   </div>
 </div>
 
 ---
 
-## 🛠️ Mis Habilidades (My Skills)
+## 🛠️ Mis Habilidades
 
 <div align="center">
 
@@ -73,7 +101,7 @@
 
 ---
 
-## 🎓 Educación (Education)
+## 🎓 Educación 
 
 * ### **Ingeniería en Sistemas y Redes Informáticas**
     **Universidad Gerardo Barrios** | 2024 - Actualidad
@@ -112,7 +140,7 @@
 
 ---
 
-## 📡 Estado del Servidor (Contacto)
+## 📡 Estado del Servidor
 
 <div align="center">
 
