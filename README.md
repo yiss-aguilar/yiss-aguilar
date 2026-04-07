@@ -10,7 +10,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D6BCFA&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Desarrollador+Full+Stack+en+proceso;Especialista+en+Redes+Inform%C3%A1ticas;Apasionado+por+la+tecnolog%C3%ADa+futurista" alt="Typing SVG" />
 </a>
-
 <p align="center">
   <a href="mailto:yooiss08@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contactar%20Ahora-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -24,7 +23,7 @@
 
 ---
 
-## ⚡ Sobre Mí  
+##  Sobre Mí  
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Ciberseguridad+Ofensiva+y+Defensiva;Optimización+de+sistemas+cr%C3%ADticos;C%C3%B3digo+limpio+%3E+Arquitecturas+robustas" alt="Typing SVG" />
@@ -41,7 +40,7 @@
 
 ---
 
-## 🧠 Tecnologías & Herramientas 
+##  Tecnologías & Herramientas 
 
 <p align="center">
   <!-- Backend -->
@@ -57,9 +56,6 @@
   <!-- Design -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
-  <!-- Networking & Ops -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
 </p>
 
 <p align="center">
@@ -69,7 +65,7 @@
 
 ---
 
-## 🎓 Educación & Formación Técnica
+##  Educación 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
 
@@ -99,15 +95,6 @@
 
 ---
 
-## 📈 Actividad en el Sistema
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yiss-aguilar&show_icons=true&theme=merko&bg_color=0a0a0f&title_color=00ffcc&text_color=ffffff&icon_color=8A2BE2&border_color=2a2a3a" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiss-aguilar&layout=compact&theme=merko&bg_color=0a0a0f&title_color=00ffcc&text_color=ffffff&border_color=2a2a3a" width="38%" />
-</div>
-
----
-
 ## 🔗 Conexión Segura
 
 <div align="center">
@@ -119,5 +106,5 @@
   </p>
   <img src="https://komarev.com/ghpvc/?username=yiss-aguilar&label=SCANS&color=8A2BE2&style=flat-square" />
   <br><br>
-  <code style="color:#00ffcc;">// root@yisel:~$ sudo systemctl status future --ready</code>
+ 
 </div>
