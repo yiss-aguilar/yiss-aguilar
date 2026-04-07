@@ -1,31 +1,64 @@
 <div align="center">
 
-<!-- GLITCH EFFECT HEADER -->
 <div style="background-color: #0a0a0f; background-image: radial-gradient(circle at 10% 20%, rgba(139, 0, 255, 0.15) 0%, #0a0a0f 90%); color: #00ffcc; padding: 45px 20px; text-align: center; border-radius: 24px; border: 1px solid #00ffcc80; box-shadow: 0 0 30px rgba(0, 255, 204, 0.2), inset 0 0 20px rgba(0, 255, 204, 0.05); margin-bottom: 25px; backdrop-filter: blur(2px);">
   <h1 style="font-family: 'Share Tech Mono', 'Courier New', monospace; font-size: 38px; font-weight: 800; margin: 0; text-transform: uppercase; letter-spacing: 6px; color: #00ffcc; text-shadow: 0 0 8px #00ffcc, 0 0 20px #8a2be2; border-bottom: none; animation: glitch 1s infinite;">
     Yisel Aguilar
   </h1>
-  <p style="font-family: 'Fira Code', monospace; font-size: 15px; color: #b0f0e8; margin: 12px 0 0 0; letter-spacing: 2px; border-top: 1px dashed #00ffcc60; display: inline-block; padding-top: 8px;">
-    // INGENIERA EN SISTEMAS & REDES • FULL STACK • CYBER SECURITY
-  </p>
+ 
 </div>
 
-<!-- TYPING EFFECT -->
+<div style="
+  background-color: #1a1a2e; /* Fondo oscuro tipo espacio */
+  background-image: linear-gradient(135deg, #1a1a2e 0%, #4b0082 50%, #1a1a2e 100%); /* Degradado morado oscuro */
+  color: white;
+  padding: 50px 20px;
+  text-align: center;
+  border-radius: 15px; /* Bordes redondeados modernos */
+  border: 2px solid #b794f4; /* Borde lila neón */
+  box-shadow: 0 0 15px rgba(183, 148, 244, 0.5); /* Resplandor neón sutil */
+  margin-bottom: 20px;
+">
+  <h1 style="
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 36px;
+    font-weight: 800;
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 2px; /* Espaciado futurista */
+    color: #ffffff;
+    text-shadow: 0 0 10px #b794f4; /* Efecto de brillo en el texto */
+    border-bottom: none; /* Quitar línea predeterminada de GitHub */
+  ">
+    Ingeniero en Sistemas & Redes
+  </h1>
+  <p style="
+    font-family: 'Courier New', Courier, monospace; /* Fuente tipo código */
+    font-size: 16px;
+    color: #d6bcfa; /* Lila claro */
+    margin: 10px 0 0 0;
+    letter-spacing: 1px;
+  ">
+  
+  </p>
+</div>
+
+
+##
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=+Arquitectura+de+Redes+Seguras;Ethical+Hacking+%26+Defense;Full+Stack+Developer;Infraestructura+Crítica" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D6BCFA&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;Desarrollador+Full+Stack+en+proceso;Especialista+en+Redes+Inform%C3%A1ticas;Apasionado+por+la+tecnolog%C3%ADa+futurista" alt="Typing SVG" />
 </a>
 
-<!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="mailto:yooiss08@gmail.com">
-    <img src="https://img.shields.io/badge/Encrypt_-yooiss08%40gmail.com-0a0a0f?style=for-the-badge&logo=protonmail&logoColor=00ffcc&color=0a0a0f&labelColor=1a1a2e" />
-  </a>
-  <a href="https://www.linkedin.com/in/yiselaguilar">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00ffcc&color=0a0a0f&labelColor=1a1a2e" />
-  </a>
+  <a href="mailto:yooiss08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contactar%20Ahora-9370DB?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="www.linkedin.com/in/yiselaguilar">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profesional-6A0D91?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
 </div>
+
 
 ---
 
