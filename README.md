@@ -21,7 +21,7 @@
 
 </div>
 
----
+
 
 ##  Sobre Mí  
 
@@ -34,7 +34,7 @@
   </p>
 </div>
 
----
+
 
 ##  Tecnologías & Herramientas 
 
@@ -58,7 +58,7 @@
   <img src="https://img.icons8.com/color/48/000000/wireshark.png" width="45" style="margin: 0 5px;" />
 </p>
 
----
+
 ##  Educación 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
@@ -76,7 +76,7 @@
 </div>
 </div>
 
----
+
 ## 📜 Certificaciones
 
 | Certificación | Institución | Periodo |
@@ -85,7 +85,6 @@
 | **Global Citizens Challenge 2026** | Your Big Year® | feb. 2026 |
 | **IT Essentials 7** | Cisco Networking Academy | jun. 2025 |
 
----
 ## 🔗 Conexión Segura
 
 <div align="center">
@@ -98,4 +97,4 @@
   <img src="https://komarev.com/ghpvc/?username=yiss-aguilar&label=SCANS&color=8A2BE2&style=flat-square" />
   <br><br>
  
-</div> arreglalo haz que se vea mejor sin canviar la info
+</div>
