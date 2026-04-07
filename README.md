@@ -25,10 +25,6 @@
 
 ##  Sobre Mí  
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=Ciberseguridad+Ofensiva+y+Defensiva;Optimización+de+sistemas+cr%C3%ADticos;C%C3%B3digo+limpio+%3E+Arquitecturas+robustas" alt="Typing SVG" />
-</p>
-
 <div style="background: #0d0d12; border-left: 4px solid #00ffcc; padding: 15px 20px; border-radius: 12px; margin: 20px 0;">
   <p style="font-family: 'Courier New', monospace; color: #e0e0e0;">
     <strong>🔹 Especialista en formación</strong> en <strong style="color:#00ffcc;">Ingeniería en Sistemas y Redes Informáticas (5to Ciclo)</strong>, con una visión orientada a la <strong>resiliencia de infraestructura crítica</strong>. Mi enfoque fusiona el desarrollo Full Stack con principios de <strong style="color:#8A2BE2;">ciberseguridad</strong>, desde el hardening de sistemas hasta la implementación de defensas en red. 
@@ -43,7 +39,6 @@
 ##  Tecnologías & Herramientas 
 
 <p align="center">
-  <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
@@ -63,8 +58,6 @@
   <img src="https://img.icons8.com/color/48/000000/wireshark.png" width="45" style="margin: 0 5px;" />
 </p>
 
----
-
 ##  Educación 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
@@ -80,10 +73,7 @@
   <p style="margin:0; color:#ccc;"><strong>Técnico Superior en Ciberseguridad</strong><br>sept. 2024 – Actualidad</p>
   <p style="color:#aaa; font-size:14px;">Hacking ético, defensa de red, análisis de vulnerabilidades</p>
 </div>
-
 </div>
-
----
 
 ## 📜 Certificaciones
 
@@ -92,8 +82,6 @@
 | **Introducción a las Competencias Interculturales** | OUI-IOHE | ago. 2025 – sept. 2025 |
 | **Global Citizens Challenge 2026** | Your Big Year® | feb. 2026 |
 | **IT Essentials 7** | Cisco Networking Academy | jun. 2025 |
-
----
 
 ## 🔗 Conexión Segura
 
