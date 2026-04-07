@@ -27,10 +27,10 @@
 
 <div style="background: #0d0d12; border-left: 4px solid #00ffcc; padding: 15px 20px; border-radius: 12px; margin: 20px 0;">
   <p style="font-family: 'Courier New', monospace; color: #e0e0e0;">
-    <strong>🔹 Especialista en formación</strong> en <strong style="color:#00ffcc;">Ingeniería en Sistemas y Redes Informáticas (5to Ciclo)</strong>, con una visión orientada a la <strong>resiliencia de infraestructura crítica</strong>. Mi enfoque fusiona el desarrollo Full Stack con principios de <strong style="color:#8A2BE2;">ciberseguridad</strong>, desde el hardening de sistemas hasta la implementación de defensas en red. 
+    <strong> Especialista en formación</strong> en <strong style="color:#00ffcc;">Ingeniería en Sistemas y Redes Informáticas (5to Ciclo)</strong>, con una visión orientada a la <strong>resiliencia de infraestructura crítica</strong>. Mi enfoque fusiona el desarrollo Full Stack con principios de <strong style="color:#8A2BE2;">ciberseguridad</strong>, desde el hardening de sistemas hasta la implementación de defensas en red. 
   </p>
   <p style="font-family: 'Courier New', monospace; color: #e0e0e0;">
-    🔸 Actualmente, potencio mi perfil con certificaciones internacionales en <strong>competencias interculturales</strong> y <strong>desafíos globales</strong>, además de formación técnica en <strong>Ciberseguridad</strong> y <strong>IT Essentials</strong>.
+   Actualmente, potencio mi perfil con certificaciones internacionales en <strong>competencias interculturales</strong> y <strong>desafíos globales</strong>, además de formación técnica en <strong>Ciberseguridad</strong> y <strong>IT Essentials</strong>.
   </p>
 </div>
 
@@ -61,13 +61,12 @@
 <div style="background: #0f0f14; border-radius: 20px; padding: 15px; flex: 1; border: 1px solid #2a2a3a;">
   <h3 style="color:#00ffcc; margin:0 0 5px 0;">🎓 Universidad Gerardo Barrios (UGB)</h3>
   <p style="margin:0; color:#ccc;"><strong>Ingeniería en Sistemas y Redes Informáticas</strong><br>ene. 2024 – Actualidad</p>
-  <p style="color:#aaa; font-size:14px;">Sistemas operativos, Programación, Redes avanzadas</p>
 </div>
 
 <div style="background: #0f0f14; border-radius: 20px; padding: 15px; flex: 1; border: 1px solid #2a2a3a;">
   <h3 style="color:#8A2BE2; margin:0 0 5px 0;">🛡️ ESIT - Escuela Superior de Innovación</h3>
   <p style="margin:0; color:#ccc;"><strong>Técnico Superior en Ciberseguridad</strong><br>sept. 2024 – Actualidad</p>
-  <p style="color:#aaa; font-size:14px;">Hacking ético, defensa de red, análisis de vulnerabilidades</p>
+ 
 </div>
 </div>
 
