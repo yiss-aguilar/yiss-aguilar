@@ -1,24 +1,27 @@
 <div align="center">
 
-<div style="background-color: #1a1a2e; background-image: linear-gradient(135deg, #1a1a2e 0%, #4b0082 50%, #1a1a2e 100%); color: white; padding: 40px 20px; text-align: center; border-radius: 15px; border: 2px solid #b794f4; box-shadow: 0 0 20px rgba(183, 148, 244, 0.4); margin-bottom: 20px;">
-  <h1 style="font-family: 'Segoe UI', sans-serif; font-size: 32px; font-weight: 800; margin: 0; text-transform: uppercase; letter-spacing: 3px; color: #ffffff; text-shadow: 0 0 10px #b794f4; border-bottom: none;">
+<!-- GLITCH EFFECT HEADER -->
+<div style="background-color: #0a0a0f; background-image: radial-gradient(circle at 10% 20%, rgba(139, 0, 255, 0.15) 0%, #0a0a0f 90%); color: #00ffcc; padding: 45px 20px; text-align: center; border-radius: 24px; border: 1px solid #00ffcc80; box-shadow: 0 0 30px rgba(0, 255, 204, 0.2), inset 0 0 20px rgba(0, 255, 204, 0.05); margin-bottom: 25px; backdrop-filter: blur(2px);">
+  <h1 style="font-family: 'Share Tech Mono', 'Courier New', monospace; font-size: 38px; font-weight: 800; margin: 0; text-transform: uppercase; letter-spacing: 6px; color: #00ffcc; text-shadow: 0 0 8px #00ffcc, 0 0 20px #8a2be2; border-bottom: none; animation: glitch 1s infinite;">
     Yisel Aguilar
   </h1>
-  <p style="font-family: 'Courier New', monospace; font-size: 16px; color: #d6bcfa; margin: 10px 0 0 0; letter-spacing: 1px;">
-    // Ingeniera en Sistemas & Redes Informaticas • Full Stack
+  <p style="font-family: 'Fira Code', monospace; font-size: 15px; color: #b0f0e8; margin: 12px 0 0 0; letter-spacing: 2px; border-top: 1px dashed #00ffcc60; display: inline-block; padding-top: 8px;">
+    // INGENIERA EN SISTEMAS & REDES • FULL STACK • CYBER SECURITY
   </p>
 </div>
 
+<!-- TYPING EFFECT -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D6BCFA&center=true&vCenter=true&width=500&lines=Ingeniería+en+Sistemas+y+Redes;Ciberseguridad+e+Infraestructura;Desarrollador+Full+Stack+Junior;Optimizando+sistemas+críticos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFCC&center=true&vCenter=true&width=550&lines=+Arquitectura+de+Redes+Seguras;Ethical+Hacking+%26+Defense;Full+Stack+Developer;Infraestructura+Crítica" alt="Typing SVG" />
 </a>
 
+<!-- SOCIAL BADGES -->
 <p align="center">
   <a href="mailto:yooiss08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yooiss08@gmail.com-9370DB?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Encrypt_-yooiss08%40gmail.com-0a0a0f?style=for-the-badge&logo=protonmail&logoColor=00ffcc&color=0a0a0f&labelColor=1a1a2e" />
   </a>
   <a href="https://www.linkedin.com/in/yiselaguilar">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-6A0D91?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a0a0f?style=for-the-badge&logo=linkedin&logoColor=00ffcc&color=0a0a0f&labelColor=1a1a2e" />
   </a>
 </p>
 
@@ -26,86 +29,110 @@
 
 ---
 
-## 🔮 Sobre Mí 
+## ⚡ Sobre Mí  
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div>
-    <p>
-      Especialista en formación de <strong>Ingeniería en Sistemas y Redes Informáticas (5to Ciclo)</strong>, con una visión estratégica centrada en la administración de sistemas críticos, gestión de bases de datos e infraestructura tecnológica robusta. Mi enfoque principal reside en la <strong>Ciberseguridad</strong>, buscando siempre comprender la arquitectura profunda de los sistemas para optimizar su seguridad y rendimiento mediante soluciones prácticas y escalables.
-    </p>
-    <p>
-      Me apasiona transformar problemas complejos en soluciones funcionales a través de <strong>código limpio y arquitecturas eficientes</strong>. Actualmente, potencio mis capacidades integrando el desarrollo <strong>Full Stack</strong> con protocolos avanzados de seguridad informática.
-    </p>
-  </div>
-</div>
-
----
-
-## Tecnologías y Herramientas
-
-### 🧠 Backend & Logic
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=+Ciberseguridad+Ofensiva+y+Defensiva;+Optimización+de+sistemas+críticos;+Código+limpio+%3E+Arquitecturas+robustas" alt="Typing SVG" />
 </p>
 
-### 🎨 Frontend & UX
-<p align="left">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-</p>
-
-### 🛰️ Networking & Ops
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-005A9C?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
----
-
-## 🎓 Educación 
-
-* ### **Ingeniería en Sistemas y Redes Informáticas**
-  **Universidad Gerardo Barrios** | 2024 - Actualidad
-  * *Foco en:* Infraestructura de Redes, Ciberseguridad, Gestión de Proyectos IT y Administración de BD.
-
----
-
-## 🚀 Proyectos Destacados
-
-| Proyecto | Descripción | Stack |
-| :--- | :--- | :--- |
-| **Sistema de Gestión** | Desarrollo de backend robusto con enfoque en seguridad. | `Laravel`, `MySQL` |
-| **Simulación de Red** | Diseño de topología segura para entornos empresariales. | `Packet Tracer` |
-| **Scripts de Automatización** | Herramientas en Python para análisis de logs. | `Python`, `Linux` |
-
----
-
-## Actividad en el Sistema
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yiss-aguilar&show_icons=true&theme=vision-friendly-dark&bg_color=1a1a2e&title_color=b794f4&text_color=ffffff&icon_color=b794f4" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiss-aguilar&layout=compact&theme=vision-friendly-dark&bg_color=1a1a2e&title_color=b794f4&text_color=ffffff" width="38%" />
-</div>
-
----
-
-## Estado del Servidor
-
-<div align="center">
-  <h3>¿Conectamos?</h3>
-  <p>
-    <a href="mailto:yooiss08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/yiselaguilar"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-    <a href="https://www.instagram.com/yissel_myrl?igsh=MXN3eWdieGt0Z2YzZw=="><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" /></a>
+<div style="background: #0d0d12; border-left: 4px solid #00ffcc; padding: 15px 20px; border-radius: 12px; margin: 20px 0;">
+  <p style="font-family: 'Courier New', monospace; color: #e0e0e0;">
+    <strong>🔹 Especialista en formación</strong> en <strong style="color:#00ffcc;">Ingeniería en Sistemas y Redes Informáticas (5to Ciclo)</strong>, con una visión orientada a la <strong>resiliencia de infraestructura crítica</strong>. Mi enfoque fusiona el desarrollo Full Stack con principios de <strong style="color:#8A2BE2;">ciberseguridad</strong>, desde el hardening de sistemas hasta la implementación de defensas en red. 
   </p>
-  <img src="https://komarev.com/ghpvc/?username=yiss-aguilar&label=VISITAS&color=6A0D91&style=flat-square" />
+  <p style="font-family: 'Courier New', monospace; color: #e0e0e0;">
+    🔸 Actualmente, potencio mi perfil con certificaciones internacionales en <strong>competencias interculturales</strong> y <strong>desafíos globales</strong>, además de formación técnica en <strong>Ciberseguridad</strong> y <strong>IT Essentials</strong>.
+  </p>
+</div>
+
+---
+
+## 🧠 Tecnologías & Herramientas (Iconos oficiales)
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
+  <!-- Design -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
+  <!-- Networking & Ops -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" style="filter: drop-shadow(0 0 5px #00ffcc); margin: 0 8px;" />
+</p>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/cisco.png" width="45" style="margin: 0 5px;" />
+  <img src="https://img.icons8.com/color/48/000000/wireshark.png" width="45" style="margin: 0 5px;" />
+</p>
+
+---
+
+## 🎓 Educación & Formación Técnica
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
+
+<div style="background: #0f0f14; border-radius: 20px; padding: 15px; flex: 1; border: 1px solid #2a2a3a;">
+  <h3 style="color:#00ffcc; margin:0 0 5px 0;">🎓 Universidad Gerardo Barrios (UGB)</h3>
+  <p style="margin:0; color:#ccc;"><strong>Ingeniería en Sistemas y Redes Informáticas</strong><br>ene. 2024 – Actualidad</p>
+  <p style="color:#aaa; font-size:14px;">Sistemas operativos, Programación, Redes avanzadas</p>
+</div>
+
+<div style="background: #0f0f14; border-radius: 20px; padding: 15px; flex: 1; border: 1px solid #2a2a3a;">
+  <h3 style="color:#8A2BE2; margin:0 0 5px 0;">🛡️ ESIT - Escuela Superior de Innovación</h3>
+  <p style="margin:0; color:#ccc;"><strong>Técnico Superior en Ciberseguridad</strong><br>sept. 2024 – Actualidad</p>
+  <p style="color:#aaa; font-size:14px;">Hacking ético, defensa de red, análisis de vulnerabilidades</p>
+</div>
+
+</div>
+
+---
+
+## 📜 Certificaciones & Logros Internacionales
+
+| Certificación | Institución | Periodo |
+| :--- | :--- | :--- |
+| **Introducción a las Competencias Interculturales** | OUI-IOHE | ago. 2025 – sept. 2025 |
+| **Global Citizens Challenge 2026** | Your Big Year® | feb. 2026 |
+| **IT Essentials 7** | Cisco Networking Academy | jun. 2025 |
+
+---
+
+## 🚀 Proyectos Clave
+
+| Proyecto | Área | Tecnologías |
+| :--- | :--- | :--- |
+| **Sistema de Gestión Seguro** | Backend + Seguridad | `Laravel`, `MySQL`, `JWT` |
+| **Topología Empresarial** | Redes | `Packet Tracer`, `VLANs`, `ACLs` |
+| **Automatización de Logs** | DevSecOps | `Python`, `Bash`, `Linux` |
+
+---
+
+## 📈 Actividad en el Sistema
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yiss-aguilar&show_icons=true&theme=merko&bg_color=0a0a0f&title_color=00ffcc&text_color=ffffff&icon_color=8A2BE2&border_color=2a2a3a" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yiss-aguilar&layout=compact&theme=merko&bg_color=0a0a0f&title_color=00ffcc&text_color=ffffff&border_color=2a2a3a" width="38%" />
+</div>
+
+---
+
+## 🔗 Conexión Segura
+
+<div align="center">
+  <h3 style="color:#00ffcc;">› Establece canal seguro</h3>
+  <p>
+    <a href="mailto:yooiss08@gmail.com"><img src="https://img.shields.io/badge/ProtonMail-yooiss08%40gmail.com-8A2BE2?style=flat-square&logo=protonmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/yiselaguilar"><img src="https://img.shields.io/badge/LinkedIn-Perfil-00ffcc?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/yissel_myrl"><img src="https://img.shields.io/badge/Instagram-@yissel_myrl-ff00cc?style=flat-square&logo=instagram&logoColor=white" /></a>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=yiss-aguilar&label=SCANS&color=8A2BE2&style=flat-square" />
+  <br><br>
+  <code style="color:#00ffcc;">// root@yisel:~$ sudo systemctl status future --ready</code>
 </div>
